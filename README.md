@@ -8,7 +8,7 @@ l’autre comprenant des données ayant subi un prétraitement, ou
 
 
 
-Ce projet a pour objectif de développer un système de recherche d'information sur les documents de TREC, et de 
+Ce projet a pour objectif de développer un système de recherche d'information en se basant en utilisant la plateforme logicielle de moteur de recherche Solr, sur les documents de TREC, et de 
 comparer les différents métriques (BM25, TfIdf, )  de ce système.
 
 
